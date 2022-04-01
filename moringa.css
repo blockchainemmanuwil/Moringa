@@ -38,6 +38,10 @@ nav{
     font-size: 14px;
 }
 
+.nav-links a:hover {
+    color: black;
+}
+
 .menu { 
      display: none;
      cursor: pointer;
@@ -111,3 +115,4 @@ nav{
 .toggle .line3 {
     transform: rotate(+45deg) translate(-5px,-6px);
 }
+
